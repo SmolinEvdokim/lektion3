@@ -1,0 +1,15 @@
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\bin\Debug\net6.0\zikl_so_s4et4ikom(for).exe
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\bin\Debug\net6.0\zikl_so_s4et4ikom(for).deps.json
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\bin\Debug\net6.0\zikl_so_s4et4ikom(for).runtimeconfig.json
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\bin\Debug\net6.0\zikl_so_s4et4ikom(for).dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\bin\Debug\net6.0\zikl_so_s4et4ikom(for).pdb
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\obj\Debug\net6.0\zikl_so_s4et4ikom(for).csproj.AssemblyReference.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\obj\Debug\net6.0\zikl_so_s4et4ikom(for).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\obj\Debug\net6.0\zikl_so_s4et4ikom(for).AssemblyInfoInputs.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\obj\Debug\net6.0\zikl_so_s4et4ikom(for).AssemblyInfo.cs
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\obj\Debug\net6.0\zikl_so_s4et4ikom(for).csproj.CoreCompileInputs.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\obj\Debug\net6.0\zikl_so_s4et4ikom(for).dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\obj\Debug\net6.0\refint\zikl_so_s4et4ikom(for).dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\obj\Debug\net6.0\zikl_so_s4et4ikom(for).pdb
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\obj\Debug\net6.0\zikl_so_s4et4ikom(for).genruntimeconfig.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\zikl_so_s4et4ikom(for)\obj\Debug\net6.0\ref\zikl_so_s4et4ikom(for).dll

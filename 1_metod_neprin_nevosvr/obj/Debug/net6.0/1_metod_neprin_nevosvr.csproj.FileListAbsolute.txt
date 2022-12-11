@@ -1,0 +1,15 @@
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\bin\Debug\net6.0\1_metod_neprin_nevosvr.exe
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\bin\Debug\net6.0\1_metod_neprin_nevosvr.deps.json
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\bin\Debug\net6.0\1_metod_neprin_nevosvr.runtimeconfig.json
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\bin\Debug\net6.0\1_metod_neprin_nevosvr.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\bin\Debug\net6.0\1_metod_neprin_nevosvr.pdb
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\obj\Debug\net6.0\1_metod_neprin_nevosvr.csproj.AssemblyReference.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\obj\Debug\net6.0\1_metod_neprin_nevosvr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\obj\Debug\net6.0\1_metod_neprin_nevosvr.AssemblyInfoInputs.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\obj\Debug\net6.0\1_metod_neprin_nevosvr.AssemblyInfo.cs
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\obj\Debug\net6.0\1_metod_neprin_nevosvr.csproj.CoreCompileInputs.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\obj\Debug\net6.0\1_metod_neprin_nevosvr.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\obj\Debug\net6.0\refint\1_metod_neprin_nevosvr.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\obj\Debug\net6.0\1_metod_neprin_nevosvr.pdb
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\obj\Debug\net6.0\1_metod_neprin_nevosvr.genruntimeconfig.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion3\1_metod_neprin_nevosvr\obj\Debug\net6.0\ref\1_metod_neprin_nevosvr.dll

@@ -74,5 +74,25 @@
 //         Console.WriteLine($"{i} x {j} = {i * j}");
 //     }
 //     Console.WriteLine(); // dlia razriva strok
-// }
-// 21.12
+// 
+
+
+sting text = "Здравствуйте. Только сегодня пересмотрел лекцию. Наверное об этом поздно уже писать : "
+           + "что касается адаптации последнего кода чтобы числа стояли от максималоьного к минимальном, то" 
+           + "Здравствуйте. Только сегодня пересмотрел лекцию. Наверное об этом поздно уже "
+           + "исать : что касается адаптации последнего кода чтобы числа стояли от м";
+
+string Replase(string text, char old Value, char newValue)
+{
+    string result = String.Empty; // inizialisatia pustoi stroki
+    int lenght = text.Length;
+    for (int i = 0; i < length; i++)
+    {
+        if(text[i] == oldValue) result = result + $"{newValue}";
+        else result = result + $"{text[i]}";
+    }
+
+    return result;
+}
+//string newText = Replase 
+Console.WriteLine(newText);
